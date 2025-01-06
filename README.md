@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/Sheikh_ali_ahmad_24)
+[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Whatsapp-contact-green.svg?style=flat-square)](https://telegram.me/Sheikh_ali_ahmad_24)
 [![https://telegram.me/th30neand0nly](https://img.shields.io/badge/Telegram-@Sheikh_ali_ahmad_24-blue.svg?style=flat-square)](https://telegram.me/Sheikh_ali_ahmad_24)
 
 </div>
