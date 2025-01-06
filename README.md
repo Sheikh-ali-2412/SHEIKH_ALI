@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src='WEB PANEL/img/logo.png' style="height:100px;width:100px;" >
+<img src='https://i.ibb.co/hVndwHm/6995.jpg' style="height:100px;width:100px;" >
 </p>
 <h1 align=center>SHEIKH_ALI</h1>
 
