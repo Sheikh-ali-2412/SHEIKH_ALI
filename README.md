@@ -80,7 +80,7 @@
  1. Also create a web app and copy the config of webapp.
    ### Panel Setup
  1. You can use Github Pages , Firebase Hosting or any Hosting Website (except 000webhost) for hosting the panel.
- 1. Open [index.html](./WEB%20PANEL/index.html) File and from [line number 16](https://github.com/Th30neAnd0nly/SHEIKH_ALI/blob/302dca641bb04c6bed72d1b2cebdfc79ccfbb046/WEB%20PANEL/index.html#L16) replace the config with your web app config which you have created on Step 6.
+ 1. Open [index.html](./WEB%20PANEL/index.html) File and from [line number 16](https://github.com/Sheikh_sli_2412/SHEIKH_ALI/blob/302dca641bb04c6bed72d1b2cebdfc79ccfbb046/WEB%20PANEL/index.html#L16) replace the config with your web app config which you have created on Step 6.
  1. Save the file , Your Panel Setup is completed.
  ### Android RAT
  1. Download [Instagram.apk](./ANDROID%20APP/Instagram.apk)
@@ -103,9 +103,9 @@
   1. https://youtu.be/atSX_YDniyM (Mr.Ethical YT)
 
 ### ❤️Supporters❤️
-[![Stargazers repo roster for @th30neand0nly/SHEIKH_ALI](https://reporoster.com/stars/dark/Th30neAnd0nly/AIRAVAT)](https://github.com/Th30neAnd0nly/AIRAVAT/stargazers)
+[![Stargazers repo roster for @th30neand0nly/SHEIKH_ALI](https://reporoster.com/stars/dark/Sheikh_sli_2412/SHEIKH_ALI)](https://github.com/Sheikh_sli_2412/SHEIKH_ALI/stargazers)
 
-[![Forkers repo roster for @th30neand0nly/SHEIKH_ALI](https://reporoster.com/forks/dark/Th30neAnd0nly/AIRAVAT)](https://github.com/Th30neAnd0nly/AIRAVAT/network/members)
+[![Forkers repo roster for @th30neand0nly/SHEIKH_ALI](https://reporoster.com/forks/dark/Sheikh_sli_2412/SHEIKH_ALI)](https://github.com/Sheikh_sli_2412/SHEIKH_ALI/network/members)
 
 ## SHEIKH_ALI PRO <img src='WEB PANEL/img/logo.png' style="height:30px;width:30px;" >
  1. Read , Delete files from victim's device
