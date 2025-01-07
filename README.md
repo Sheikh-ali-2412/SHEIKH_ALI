@@ -43,7 +43,7 @@
     - Auto Starts when any notification arrives
  - No port forwarding needed
 
-<img align=center src=./https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg >
+<img align=center src=.github/img.jpg >
 
 
 ## Requirements
