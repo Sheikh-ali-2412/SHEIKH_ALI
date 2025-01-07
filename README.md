@@ -97,10 +97,9 @@
        ```
  1. Now compile the code with appt2.
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
-  ### PoC Video 
- 1. https://youtu.be/i3JAHcsWwu0 (old video)
+  
   ### Tutorial Videos
-  1. https://youtu.be/atSX_YDniyM (Mr.Ethical YT)
+  1. [![https://telegram.me/Sheikh_ali_ahmad_24](https://img.shields.io/badge/ᴡʜᴀᴛsᴀᴘᴘ-green.svg?style=flat-square)](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)
 
 ### ❤️Supporters❤️
 [![Stargazers repo roster for @Sheikh-ali-2412/SHEIKH_ALI](https://reporoster.com/stars/dark/Sheikh_sli_2412/SHEIKH_ALI)](https://github.com/Sheikh_sli_2412/SHEIKH_ALI/stargazers)
