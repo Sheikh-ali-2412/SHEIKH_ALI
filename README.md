@@ -8,8 +8,8 @@
 
 <div align="center">
 
-[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/ᴡʜᴀᴛsᴀᴘᴘ-ᴄᴏɴᴛᴀᴄᴛ-green.svg?style=flat-square)](https://wa.me/+923143702270?text=*ʜɪɪ+𓄂𝑺𝑯𝑬𝑰𝑲𝑯-𝑨𝑳𝑰🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*)
-[![https://telegram.me/th30neand0nly](https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-ᴄᴏɴᴛᴀᴄᴛ-blue.svg?style=flat-square)](https://telegram.me/Sheikh_ali_ahmad_24)
+[![https://telegram.me/Sheikh_ali_ahmad_240ne](https://img.shields.io/badge/ᴡʜᴀᴛsᴀᴘᴘ-ᴄᴏɴᴛᴀᴄᴛ-green.svg?style=flat-square)](https://wa.me/+923143702270?text=*ʜɪɪ+𓄂𝑺𝑯𝑬𝑰𝑲𝑯-𝑨𝑳𝑰🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*)
+[![https://telegram.me/Sheikh_ali_ahmad_24](https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-ᴄᴏɴᴛᴀᴄᴛ-blue.svg?style=flat-square)](https://telegram.me/Sheikh_ali_ahmad_24)
 
 </div>
 
