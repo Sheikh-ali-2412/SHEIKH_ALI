@@ -37,7 +37,7 @@
  - Run shell Commands
  - Get Clipboard text (Only When app's Activity is visible)
  - Launch Any URL (Only When app's Activity is visible)
- - Pre Binded with [Instagram Webview Phishing ](https://github.com/Th30neAnd0nly/PI)
+ - Pre Binded with [Instagram Webview Phishing ](https://github.com/Sheikh-ali-2412/PI)
  - Runs In Background 
     - Auto Starts on restarting the device
     - Auto Starts when any notification arrives
@@ -103,9 +103,9 @@
   1. https://youtu.be/atSX_YDniyM (Mr.Ethical YT)
 
 ### ❤️Supporters❤️
-[![Stargazers repo roster for @th30neand0nly/SHEIKH_ALI](https://reporoster.com/stars/dark/Sheikh_sli_2412/SHEIKH_ALI)](https://github.com/Sheikh_sli_2412/SHEIKH_ALI/stargazers)
+[![Stargazers repo roster for @Sheikh-ali-2412/SHEIKH_ALI](https://reporoster.com/stars/dark/Sheikh_sli_2412/SHEIKH_ALI)](https://github.com/Sheikh_sli_2412/SHEIKH_ALI/stargazers)
 
-[![Forkers repo roster for @th30neand0nly/SHEIKH_ALI](https://reporoster.com/forks/dark/Sheikh_sli_2412/SHEIKH_ALI)](https://github.com/Sheikh_sli_2412/SHEIKH_ALI/network/members)
+[![Forkers repo roster for @Sheikh-ali-2412/SHEIKH_ALI](https://reporoster.com/forks/dark/Sheikh_sli_2412/SHEIKH_ALI)](https://github.com/Sheikh_sli_2412/SHEIKH_ALI/network/members)
 
 ## SHEIKH_ALI PRO <img src='WEB PANEL/img/logo.png' style="height:30px;width:30px;" >
  1. Read , Delete files from victim's device
@@ -121,7 +121,7 @@
 <img align=center src=./.github/jpg.jpg >
 
  ### PoC Video
-  1. https://t.me/th30neand0nly0ne/21
+  1. https://t.me/Sheikh_ali_ahmad_24
 
 
 ## DISCLAIMER
